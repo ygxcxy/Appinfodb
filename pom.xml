@@ -29,7 +29,7 @@
     <pageHelper.version>5.1.10</pageHelper.version>
     <jstl.version>1.2</jstl.version>
     <standard.version>1.2.5</standard.version>
-    <fastJson.version>1.2.59</fastJson.version>
+    <fastJson.version>1.2.83</fastJson.version>
   </properties>
   <dependencies>
     <dependency>
